@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/coin-tracker/static/js/main.a8cb5054.chunk.js",
+    "main.js.map": "/coin-tracker/static/js/main.a8cb5054.chunk.js.map",
+    "runtime-main.js": "/coin-tracker/static/js/runtime-main.5f61b830.js",
+    "runtime-main.js.map": "/coin-tracker/static/js/runtime-main.5f61b830.js.map",
+    "static/js/2.62f16d9a.chunk.js": "/coin-tracker/static/js/2.62f16d9a.chunk.js",
+    "static/js/2.62f16d9a.chunk.js.map": "/coin-tracker/static/js/2.62f16d9a.chunk.js.map",
+    "index.html": "/coin-tracker/index.html",
+    "static/js/2.62f16d9a.chunk.js.LICENSE.txt": "/coin-tracker/static/js/2.62f16d9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f61b830.js",
+    "static/js/2.62f16d9a.chunk.js",
+    "static/js/main.a8cb5054.chunk.js"
+  ]
+}
